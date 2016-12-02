@@ -1,0 +1,13 @@
+dhahelper.sys - direct hardware access under Windows Nt/2000/XP
+(c) 2004 Sascha Sommer
+
+This driver makes it possible to give direct hardware access to user mode apps.
+To install use the dhasetup.exe tool.
+"dhasetup.exe install" will install the dhahelper.sys so that it gets loaded on every system start.
+"dhasetup.exe remove" will remove it again
+
+Please take into account that you need to be admin to do this setup and that you will have
+to reboot to make it work.
+
+
+Sascha Sommer 

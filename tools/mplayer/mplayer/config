@@ -1,0 +1,10 @@
+vo=directx
+double=yes
+font=c:/windows/fonts/arial.ttf
+autosync=100
+framedrop=yes
+quiet=yes
+#adapter=2
+#fs=yes
+
+
